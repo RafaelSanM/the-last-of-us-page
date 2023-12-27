@@ -1,6 +1,6 @@
 # The Last of us project
 
-This is a project to the [The Last of us project page](https://rafaelsanm.github.io/projeto-the-last-of-us/). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a project to the [The Last of us project page](https://rafaelsanm.github.io/projeto-the-last-of-us/).  
 
 As most of my work, this solution is being constantly updated as I learn new things and find better solutions for my problems, so please, take this into consideration!
 
